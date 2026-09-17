@@ -2,6 +2,8 @@
 
 Software engineer in the New York area. Former classroom mathematics teacher.
 
+**[adamliscia.com](https://adamliscia.com)**
+
 I build and run production systems end to end — schema and API through nginx, systemd and
 TLS. Three of the services below I designed, built and deployed to AWS on my own.
 
@@ -50,4 +52,4 @@ Seven years teaching mathematics and computer science — New York City Departme
 Education, homeschool curriculum design, and 100+ private students. I taught Python before
 I built in it. Mathematics degree, Stony Brook University.
 
-📫 adamliscia@gmail.com · [LinkedIn](https://www.linkedin.com/in/adam-liscia-b73555138)
+📫 adamliscia@gmail.com · [adamliscia.com](https://adamliscia.com) · [LinkedIn](https://www.linkedin.com/in/adam-liscia-b73555138)
