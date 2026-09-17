@@ -19,15 +19,17 @@ persistent player. Official embeds only. **Built alone, empty repository to publ
 24 days**, including the RDS provisioning, data migration, systemd unit, nginx config and
 certificates.
 
-**[api.barcraft.social](https://api.barcraft.social)** — a cocktail application for working
-bartenders. FastAPI + SQLAlchemy backend live under gunicorn and nginx, Expo/React Native
-client serving web, iOS and Android from one codebase, API client generated from OpenAPI.
-**300-test pytest suite**, 20 Alembic migrations, and a migration from PostgreSQL to MySQL
-done in production.
+**[barcraft.bar](https://barcraft.bar)** — a cocktail application for working bartenders.
+FastAPI + SQLAlchemy backend running under gunicorn and nginx at `api.barcraft.social`,
+Expo/React Native client serving web, iOS and Android from one codebase, API client
+generated from OpenAPI. **300-test pytest suite**, 20 Alembic migrations, and a
+PostgreSQL-to-MySQL migration done in production.
 
-**Nerd Leagues mobile** — React Native on Expo Router, **published to both the iOS App
-Store and Google Play**. Sole author, and it ships its own Node.js/Express API that I wrote
-and deployed to EC2 separately from the Flask backend.
+**Nerd Leagues mobile** — React Native on Expo Router, published to the
+**[iOS App Store](https://apps.apple.com/app/nerd-leagues/id6760728360)** and
+**[Google Play](https://play.google.com/store/apps/details?id=com.nerdleagues.app)**.
+Sole author, and it ships its own Node.js/Express API that I wrote and deployed to EC2
+separately from the Flask backend.
 
 ### A note on the repo list below
 
