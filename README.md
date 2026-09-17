@@ -21,8 +21,8 @@ certificates.
 
 **[barcraft.bar](https://barcraft.bar)** — a cocktail application for working bartenders,
 **on the [iOS App Store](https://apps.apple.com/us/app/barcraft-cocktail-recipes/id6783025586)**
-since July 2026. FastAPI + SQLAlchemy backend running under gunicorn and nginx at
-`api.barcraft.social`, one Expo/React Native codebase targeting web, iOS and Android,
+since July 2026. FastAPI + SQLAlchemy backend live in production under gunicorn and nginx,
+one Expo/React Native codebase targeting web, iOS and Android,
 API client generated from OpenAPI. **300-test pytest suite**, 20 Alembic
 migrations, and a PostgreSQL-to-MySQL migration done in production.
 
